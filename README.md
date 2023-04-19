@@ -1,11 +1,12 @@
 
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I am currently a student at OpenClassrooms 
 - 🌱 I’m currently learning React Redux
 - ☕👀🐈‍⬛ I'm love coffee and cats !
+&nbsp;
 
-
+&nbsp;
 
 ## Tech stack
 
