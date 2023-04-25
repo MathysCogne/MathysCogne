@@ -7,6 +7,7 @@
 
 &nbsp;
 
+![](https://www.codewars.com/users/Mathys%20Cogn%C3%A9/badges/small)
 ## Tech stack
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
