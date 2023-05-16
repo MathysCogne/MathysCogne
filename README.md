@@ -3,7 +3,7 @@
 
 - 🔭 I am currently a student at OpenClassrooms 
 - 🌱 I’m currently learning React Redux
-- ☕👀🐈‍⬛ I'm love coffee and cats !
+- ☕👀🐈‍⬛ I love coffee and cats !
 
 &nbsp;
 
