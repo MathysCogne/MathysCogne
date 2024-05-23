@@ -35,8 +35,4 @@
 
 
 
-&nbsp;
-
-&nbsp;
-
 ![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
