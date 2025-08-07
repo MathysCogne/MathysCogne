@@ -2,12 +2,11 @@
   <img src="cover.png" alt="Hello I'm Degen banner" width="100%" />
 </p>
 
-<h3 align="center">I'm <strong>Mathys</strong>, Web3 Developer</h3>
 
-<p align="center">
+<h4 align="center">
   Core Team 42Blockchain<br/>
   Building <a href="https://x.com/berries_pay" target="_blank">@Berries_Pay</a> & <a href="https://x.com/EatwithNomu" target="_blank">@EatwithNomu</a> 🥊🐡
-</p>
+</h4>
 
 ---
 
@@ -21,3 +20,4 @@
 <h3 align="center"> </h3>
 
 <p align="center"><i>Built with caffeine, chaos & decentralization.</i></p>
+
