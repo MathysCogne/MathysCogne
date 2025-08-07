@@ -1,12 +1,23 @@
-<div align="center">
-  <a href="https://www.mathys-cognefoucault.fr/" target="_blank">
-    <img src="cover.png" alt="Mathys Cogne Foucault" width="100%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);"/>
-  </a>
+<p align="center">
+  <img src="cover.png" alt="Hello I'm Degen banner" width="100%" />
+</p>
 
-  <br/>
+<h3 align="center">I'm <strong>Mathys</strong>, Web3 Developer</h3>
 
-  <a href="https://www.mathys-cognefoucault.fr/" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20%20Portfolio-ff6600?style=for-the-badge&logo=Firefox&logoColor=white" alt="My Portfolio">
-  </a>
+<p align="center">
+  Core Team 42Blockchain<br/>
+  Building <a href="https://x.com/berries_pay" target="_blank">@Berries_Pay</a> & <a href="https://x.com/EatwithNomu" target="_blank">@EatwithNomu</a> 🥊🐡
+</p>
 
-</div>
+---
+
+<p align="center">
+  <a href="https://mathys-cognefoucault.fr" target="_blank">🚀 Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://x.com/MattCogne" target="_blank">🐦 Twitter</a> &nbsp;•&nbsp;
+  <a href="https://t.me/Mathys_Cogne" target="_blank">💬 Telegram</a> &nbsp;•&nbsp;
+  <a href="https://calendar.app.google/9Btfik6pCrQMSr7s6" target="_blank">📅 Schedule</a>
+</p>
+
+<h3 align="center"> </h3>
+
+<p align="center"><i>Built with caffeine, chaos & decentralization.</i></p>
