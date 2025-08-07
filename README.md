@@ -3,10 +3,10 @@
 </p>
 
 
-<h3 align="center">
-  Core Team 42Blockchain<br/>
+<h4 align="center">
+  Web3 Developer - Core Team 42Blockchain<br/>
   Building <a href="https://x.com/berries_pay" target="_blank">@Berries_Pay</a> & <a href="https://x.com/EatwithNomu" target="_blank">@EatwithNomu</a> 🥊🐡
-</h3>
+</h4>
 
 ---
 
