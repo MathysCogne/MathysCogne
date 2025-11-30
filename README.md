@@ -4,8 +4,9 @@
 
 
 <h4 align="center">
-  Web3 Developer - Core Team 42Blockchain<br/>
-  Building <a href="https://x.com/berries_pay" target="_blank">@Berries_Pay</a> & <a href="https://x.com/EatwithNomu" target="_blank">@EatwithNomu</a> 🥊🐡
+Solana Dev - Building <a href="https://x.com/EatwithNomu" target="_blank">@EatwithNomu</a> 🐡<br/>
+Iterating like a scientist, shipping like a degen.<br/>
+Ex 42 Paris · 42Blockchain Club
 </h4>
 
 ---
@@ -18,6 +19,3 @@
 </p>
 
 <h3 align="center"> </h3>
-
-<p align="center"><i>Built with caffeine, chaos & decentralization.</i></p>
-
